@@ -1,15 +1,15 @@
-# React Calculator App
+# Calculator Web Application
 
-A simple and responsive **Calculator Web Application** built using **React.js, JavaScript, and Bootstrap**.  
-This project allows users to perform basic arithmetic calculations with a clean and interactive user interface.
+A responsive and user-friendly Calculator Application built using **React.js, JavaScript, HTML, CSS, and Bootstrap**.  
+The project performs basic mathematical operations with a clean and interactive user interface.
 
-## Features
+##  Features
 
 - Addition, Subtraction, Multiplication, Division
 - Clear/Delete functionality
-- Real-time calculation display
-- Responsive and clean UI
-- Built with reusable React components
+- Responsive design
+- Interactive button layout
+- Fast and accurate calculations
 - Beginner-friendly project structure
 
 ## Tech Stack
@@ -20,20 +20,22 @@ This project allows users to perform basic arithmetic calculations with a clean 
 - HTML
 - CSS
 
-##  Project Description
+## Project Description
 
-This Calculator App helps users perform mathematical calculations quickly and efficiently. The application demonstrates core React concepts like components, state management, event handling, and responsive UI development using Bootstrap.
+This Calculator App is designed to perform basic arithmetic operations efficiently. The application provides a simple and responsive interface where users can easily enter values and perform calculations in real time. The project demonstrates concepts like event handling, state management, reusable components, and UI styling in React.
 
-## Folder Structure
+## Learning Outcomes
+
+- React component structure
+- State management using React Hooks
+- Event handling in JavaScript
+- Responsive UI design with Bootstrap
+- Building interactive web applications
+
+## Installation
 
 ```bash
-src/
- ├── components/
- │   ├── Calculator.jsx
- │   ├── Display.jsx
- │   ├── ButtonContainer.jsx
- │   └── Button.jsx
- ├── App.jsx
- ├── main.jsx
- └── app.css
-```
+git clone your-repository-link
+cd calculator-app
+npm install
+npm run dev
